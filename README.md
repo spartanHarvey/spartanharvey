@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a finTech project that will allow sending and receiving currency to certain countries in Africa.
+- 🌱 I’m currently working on my AWS cloud practioner certificate. 
+- 📫 How to reach me: jorgenathan257@gmail.com
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/gnathan_9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorgengimbi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
